@@ -9,7 +9,8 @@ This project demonstrates a complete pipeline for integrating a person image int
 ## 📷 Final Result
 
 <p align="center">
-  <img src="![result](https://github.com/user-attachments/assets/a36e5d94-7ff8-489a-9e43-0fa9f3f7b755)
+  <img src="![result](https://github.com/user-attachments/assets/356d3c02-faa0-415c-b07b-e384d1c32407)
+" width="600">
 " width="600">
 </p>
 
