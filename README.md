@@ -16,9 +16,9 @@ This project demonstrates a complete pipeline for integrating a person image int
 
 ## 🖼️ Inputs
 
-| Background Scene                         | Foreground Person (Removed BG)       |
-|------------------------------------------|--------------------------------------|
-| ![Background](background.jpg)     | ![Foreground](WhatsApp Image 2025-06-15 at 15.42.48_0ffd9111.jpg) |
+| Background Scene                         
+|--------------------------------|
+| ![Background](background.jpg)    
 
 ---
 
