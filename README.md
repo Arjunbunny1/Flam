@@ -9,7 +9,8 @@ This project demonstrates a complete pipeline for integrating a person image int
 ## 📷 Final Result
 
 <p align="center">
-  <img src="images/result.png" width="600">
+  <img src="![result](https://github.com/user-attachments/assets/a36e5d94-7ff8-489a-9e43-0fa9f3f7b755)
+" width="600">
 </p>
 
 ---
@@ -18,7 +19,9 @@ This project demonstrates a complete pipeline for integrating a person image int
 
 | Background Scene                         | Foreground Person (Removed BG)       |
 |------------------------------------------|--------------------------------------|
-| ![Background](images/background.jpg)     | ![Foreground](images/person_no_bg.png) |
+| ![Background](![WhatsApp Image 2025-06-15 at 15 54 16_ac911851](https://github.com/user-attachments/assets/8bc8865b-7e85-40b2-ba8f-1c7973fcee9b)
+)     | ![Foreground](![foreground](https://github.com/user-attachments/assets/9c9d0feb-d429-419c-a8aa-abf553722a0c)
+) |
 
 ---
 
