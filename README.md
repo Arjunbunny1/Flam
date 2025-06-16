@@ -14,16 +14,20 @@ This project demonstrates a complete pipeline for integrating a person image int
 
 ---
 
+
 ## 🖼️ Inputs
 
-| Background Scene                         
-|--------------------------------|
-| ![Background](background.jpg)   
-
-
-| foreground Scene                         
-|--------------------------------|
-| ![foreground](foreground.jpg)    
+<table>
+  <tr>
+    <td align="center"><b>Background Scene</b></td>
+    <td align="center"><b>Foreground (Person)</b></td>
+  </tr>
+  <tr>
+    <td><img src="background.jpg" width="300"></td>
+    <td><img src="foreground.jpg" width="200"></td>
+  </tr>
+</table>
+  
 
 
 ---
