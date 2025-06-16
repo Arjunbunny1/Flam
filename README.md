@@ -18,7 +18,13 @@ This project demonstrates a complete pipeline for integrating a person image int
 
 | Background Scene                         
 |--------------------------------|
-| ![Background](background.jpg)    
+| ![Background](background.jpg)   
+
+
+| foreground Scene                         
+|--------------------------------|
+| ![foreground](foreground.jpg)    
+
 
 ---
 
